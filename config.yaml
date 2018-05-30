@@ -1,0 +1,9 @@
+host: ""
+port: "8000"
+url_size: 7
+fqdn: "localhost"
+redis_host: "localhost"
+redis_port: "6379"
+pool_size: 10
+cache_size: 5000
+
